@@ -6,7 +6,6 @@ This repository presents Tabu search algorithm implementation to solve PCmax pro
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Code examples](#code-examples)
-* [Contact](#contact)
 
 ## General info
 The project was made in **November 2019**.
@@ -50,7 +49,7 @@ Example:
 ```
 
 To perform the processing, line 182 of the code must be modified. Replace <file name> with the file name in the root directory:
-``with open ('<relative file path>') as plik:``
+``with open ('<file name>') as plik:``
 for example:
 ``with open('m10n200.txt') as plik:``
 
