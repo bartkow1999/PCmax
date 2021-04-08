@@ -10,6 +10,8 @@ This repository presents Tabu search algorithm implementation to solve PCmax pro
 ## General info
 The project was made in **November 2019**.
 
+There are some sample .txt files in the repository that can be used as instances of the problem.
+
 ## Technologies
 Python 3.6 or newer
 
