@@ -8,7 +8,7 @@ This repository presents Tabu search algorithm implementation to solve PCmax pro
 * [Code examples](#code-examples)
 
 ## General info
-The project was made in **November 2019**.
+This is one of my first college projects. It was made in **November 2019**. 
 
 There are some sample .txt files in the repository that can be used as instances of the problem.
 
