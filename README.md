@@ -5,11 +5,11 @@ This repository presents Tabu search algorithm implementation to solve PCmax pro
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Code examples](#code-examples)
+* [Input](#input)
+* [Output](#output)
 
 ## General info
-This is one of my first college projects. It was made in **November 2019**. 
-
+This is one of my first college projects. It was made in **November 2019**.
 There are some sample .txt files in the repository that can be used as instances of the problem.
 
 ## Technologies
@@ -25,7 +25,7 @@ Run using ***python*** or open in dedicated IDE (e.g. PyCharm)
 python TABU_MASTER.py
 ```
 
-## Code Examples
+## Input
 The program processes the .txt file, which must be attached in the main project folder.
 
 .Txt file format:
@@ -50,11 +50,12 @@ Example:
 1918
 ```
 
-To perform the processing, line 182 of the code must be modified. Replace <file name> with the file name in the root directory:
+To perform the processing, line 182 of the code must be modified. Replace <file name> with the file name located in the root directory:
 ``with open ('<file name>') as plik:``
 for example:
 ``with open('m10n200.txt') as plik:``
 
+## Output
 The result of the program is:
 ```
 <list containing lists of assigned tasks for each processor>
