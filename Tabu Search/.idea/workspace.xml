@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="266def3b-8a48-4daf-86df-02fb51a40fe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uw6HOHi6SAz4za2vPCxbXqAw70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.tabu04">
+    <configuration name="tabu01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TabuSearch_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabu01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tabu02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TabuSearch_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabu02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tabu03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TabuSearch_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabu03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tabu04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TabuSearch_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabu04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TabuSearch_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tabu04" />
+        <item itemvalue="Python.tabu02 (1)" />
+        <item itemvalue="Python.tabu03" />
+        <item itemvalue="Python.tabu01" />
+        <item itemvalue="Python.testy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="266def3b-8a48-4daf-86df-02fb51a40fe0" name="Default Changelist" comment="" />
+      <created>1576255221058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576255221058</updated>
+      <workItem from="1576255238414" duration="5088000" />
+      <workItem from="1576400359351" duration="25816000" />
+      <workItem from="1576500221536" duration="4076000" />
+      <workItem from="1577701679460" duration="18563000" />
+      <workItem from="1577721085515" duration="41000" />
+      <workItem from="1578675799273" duration="613000" />
+      <workItem from="1578682392934" duration="2951000" />
+      <workItem from="1580682793149" duration="3377000" />
+      <workItem from="1580745091806" duration="1061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1576255288815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576255288815" />
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1578688494160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578688494160" />
+    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1578688494160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578688494160" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1578688494160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578688494160" />
+    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1578688494160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578688494160" />
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom" timestamp="1577720896005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="412" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576436169146" />
+    <state width="1493" height="310" key="GridCell.Tab.1.center" timestamp="1577720896005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="412" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576436169146" />
+    <state width="1493" height="310" key="GridCell.Tab.1.left" timestamp="1577720896005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="412" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576436169146" />
+    <state width="1493" height="310" key="GridCell.Tab.1.right" timestamp="1577720896005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577720896005" />
+    <state width="1877" height="412" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576436169146" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1576255312723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576255312723" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1576425486192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1576425486192" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1580745092830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580682794191" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580745092830" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576420548921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576420548921" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TabuSearch_01$tabu02__1_.coverage" NAME="tabu02 (1) Coverage Results" MODIFIED="1578682798716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TabuSearch_01$testy.coverage" NAME="testy Coverage Results" MODIFIED="1577713173691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TabuSearch_01$tabu04.coverage" NAME="tabu04 Coverage Results" MODIFIED="1578683063606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TabuSearch_01$tabu02.coverage" NAME="tabu02 Coverage Results" MODIFIED="1577701885727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/TabuSearch_01$tabu01.coverage" NAME="tabu01 Coverage Results" MODIFIED="1577714424321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TabuSearch_01$tabu03.coverage" NAME="tabu03 Coverage Results" MODIFIED="1578676053197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
