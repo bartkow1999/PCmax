@@ -21,7 +21,7 @@ Clone this repository using git bash:
 git clone https://github.com/bartosztkowalski/PCmax.git
 ```
 Run using ***python*** or open in dedicated IDE (e.g. PyCharm)
-```
+```python
 python TABU_MASTER.py
 ```
 
